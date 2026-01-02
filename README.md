@@ -8,13 +8,21 @@ visualizes historical trends on a React frontend, and uses Machine Learning to p
 🛠 Tech Stack
 
 Component	Technology	Purpose
+
 Frontend	React.js	User Interface & Component State
+
 Visualization	Chart.js	Rendering interactive line graphs
+
 Backend	Django REST Framework	API endpoints & Business Logic
+
 Database	PostgreSQL	Robust relational data storage
+
 Data Processing	Pandas	Cleaning & transforming raw CSV data (ETL)
+
 Machine Learning	Scikit-Learn	Linear Regression for trend prediction
+
 Styling	Bootstrap 5	Responsive layout & UI components
+
 
 📝 Setup checklist:
 
