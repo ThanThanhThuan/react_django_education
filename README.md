@@ -4,7 +4,9 @@
 
 A full-stack web application designed to analyze global education trends using real-world data from UNESCO. The platform ingests raw CSV data, serves it via a REST API, 
 visualizes historical trends on a React frontend, and uses Machine Learning to predict future statistics (e.g., literacy rates).
+
 🛠 Tech Stack
+
 Component	Technology	Purpose
 Frontend	React.js	User Interface & Component State
 Visualization	Chart.js	Rendering interactive line graphs
